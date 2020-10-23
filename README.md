@@ -176,7 +176,6 @@ Future enhancements would include:
 
 * Rudresh Veerappaji (rudv@cisco.com)
 * Abhijith Ramesh Chandra (abhr@cisco.com)
-* Harpreet Bhatia (harbhati@cisco.com)
 
 ## License
 Provided under Cisco Sample Code License, for details see [LICENSE](https://github.com/CiscoSE/erx_project/blob/master/LICENSE)
